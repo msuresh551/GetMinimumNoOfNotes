@@ -1,0 +1,11 @@
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\bin\Debug\AutomaticCashMachine.exe.config
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\bin\Debug\AutomaticCashMachine.exe
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\bin\Debug\AutomaticCashMachine.pdb
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\obj\Debug\AutomaticCashMachine.csproj.CoreCompileInputs.cache
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\obj\Debug\AutomaticCashMachine.exe
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\obj\Debug\AutomaticCashMachine.pdb
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\bin\Debug\AutomaticCashMachine.exe.manifest
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\bin\Debug\AutomaticCashMachine.application
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\obj\Debug\AutomaticCashMachine.exe.manifest
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\obj\Debug\AutomaticCashMachine.application
+C:\Users\SAINATH\Desktop\AutomaticCashMachine\CashMachine\AutomaticCashMachine\obj\Debug\AutomaticCashMachine.csprojAssemblyReference.cache
